@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/blikas-olives-live/static/css/main.45a18bb6.css",
-    "main.js": "/blikas-olives-live/static/js/main.b6845b5a.js",
+    "main.css": "/blikas-olives-live/static/css/main.08b28dc0.css",
+    "main.js": "/blikas-olives-live/static/js/main.ada4a0ad.js",
     "index.html": "/blikas-olives-live/index.html",
-    "main.45a18bb6.css.map": "/blikas-olives-live/static/css/main.45a18bb6.css.map",
-    "main.b6845b5a.js.map": "/blikas-olives-live/static/js/main.b6845b5a.js.map"
+    "main.08b28dc0.css.map": "/blikas-olives-live/static/css/main.08b28dc0.css.map",
+    "main.ada4a0ad.js.map": "/blikas-olives-live/static/js/main.ada4a0ad.js.map"
   },
   "entrypoints": [
-    "static/css/main.45a18bb6.css",
-    "static/js/main.b6845b5a.js"
+    "static/css/main.08b28dc0.css",
+    "static/js/main.ada4a0ad.js"
   ]
 }
